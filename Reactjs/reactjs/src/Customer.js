@@ -2,7 +2,7 @@
 function Customer(){
 
     return(<div>
-        This is a Customer Component
+        This is a Customers Component
     </div>)
 };
 
